@@ -23,4 +23,8 @@
 
 #### Pre-requisite
 
-* Script to be run in RHEL/CentOS servers. For others OSs script yet to be modified.
+* Script to be run in RHEL/CentOS servers.
+
+#### Future
+
+> Will try to include other OSs soon.
